@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Obsidian (machine-specific, não commitar)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Rascunhos e PDFs gerados localmente (não versionar — fonte da verdade é o .md)
+rascunhos/
+*.pdf
+
+# Temporários
+*.tmp
+*.bak
