@@ -12,7 +12,7 @@ Estes Termos de Uso regulam o uso da plataforma AirGate. Ao criar sua conta ou u
 
 **Leitura rápida (~5 minutos)** | Para a versão completa, consulte nosso [Contrato de Prestação de Serviços](https://airgate.app/contrato).
 
-> 📄 **Precisa de um contrato formal?** Se você é uma empresa que necessita de contrato com assinatura, solicite pelo e-mail juridico@airgate.app
+> 📄 **Precisa de um contrato formal?** Se você é uma empresa que necessita de contrato com assinatura, solicite pelo e-mail [juridico@airgate.app](mailto:juridico@airgate.app)
 
 ---
 
@@ -53,11 +53,13 @@ Para usar o AirGate, você precisa:
 
 ### 3.1 Planos Disponíveis
 
-| Plano | O que inclui | A partir de |
-|-------|--------------|-------------|
-| **AirGate Garage** | Abertura de garagem + WebApp | R$ 19/unid./mês |
-| **AirGate Basic** | Acessos automáticos + Painel + Suporte | R$ 55/unid./mês |
-| **AirGate+** | Tudo do Basic + Garage + Logs + Suporte estendido | R$ 65/unid./mês |
+
+| Plano              | O que inclui                                      | A partir de     |
+| ------------------ | ------------------------------------------------- | --------------- |
+| **AirGate Garage** | Abertura de garagem + WebApp                      | R$ 19/unid./mês |
+| **AirGate Basic**  | Acessos automáticos + Painel + Suporte            | R$ 55/unid./mês |
+| **AirGate+**       | Tudo do Basic + Garage + Logs + Suporte estendido | R$ 65/unid./mês |
+
 
 *Valores para 4+ unidades. Consulte tabela completa no site.*
 
@@ -103,7 +105,7 @@ Você pode cancelar **a qualquer momento**, sem multa.
 
 ### 5.2 Como Cancelar
 
-- Avise com **30 dias de antecedência** por e-mail (juridico@airgate.app)
+- Avise com **30 dias de antecedência** por e-mail ([juridico@airgate.app](mailto:juridico@airgate.app))
 - O acesso continua até o fim do período pago
 - Não há reembolso de valores já pagos
 
@@ -145,16 +147,18 @@ Você pode cancelar **a qualquer momento**, sem multa.
 
 ### 7.2 NÃO Somos Responsáveis Por
 
-| Situação | Por quê |
-|----------|---------|
-| **Internet caiu** | Infraestrutura sua |
-| **Luz acabou** | Infraestrutura sua |
-| **Hóspede não entrou** (e tinha código de backup) | Configuração/comunicação sua |
-| **Instalação mal feita** | Responsabilidade do instalador |
-| **Airbnb/Booking fora do ar** | Plataformas de terceiros |
-| **Hóspede causou dano ao imóvel** | Ato de terceiro |
-| **Fechadura não compatível** | Especificação técnica |
-| **Equipamento sem manutenção** | Conservação sua |
+
+| Situação                                          | Por quê                        |
+| ------------------------------------------------- | ------------------------------ |
+| **Internet caiu**                                 | Infraestrutura sua             |
+| **Luz acabou**                                    | Infraestrutura sua             |
+| **Hóspede não entrou** (e tinha código de backup) | Configuração/comunicação sua   |
+| **Instalação mal feita**                          | Responsabilidade do instalador |
+| **Airbnb/Booking fora do ar**                     | Plataformas de terceiros       |
+| **Hóspede causou dano ao imóvel**                 | Ato de terceiro                |
+| **Fechadura não compatível**                      | Especificação técnica          |
+| **Equipamento sem manutenção**                    | Conservação sua                |
+
 
 ### 7.3 Limite de Indenização
 
@@ -221,11 +225,13 @@ Qualquer disputa será resolvida no foro de **Joinville/SC**.
 
 ## 13. Contato
 
-| Canal | Informação |
-|-------|------------|
-| **E-mail jurídico** | juridico@airgate.app |
-| **E-mail suporte** | suporte@airgate.app |
-| **Site** | https://airgate.app |
+
+| Canal               | Informação                                          |
+| ------------------- | --------------------------------------------------- |
+| **E-mail jurídico** | [juridico@airgate.app](mailto:juridico@airgate.app) |
+| **E-mail suporte**  | [suporte@airgate.app](mailto:suporte@airgate.app)   |
+| **Site**            | [https://airgate.app](https://airgate.app)          |
+
 
 ---
 
@@ -246,7 +252,7 @@ Estes Termos de Uso são um resumo das principais condições do serviço AirGat
 
 📄 **Versão completa:** O [Contrato de Prestação de Serviços](https://airgate.app/contrato) contém todas as cláusulas detalhadas e prevalece em caso de divergência.
 
-🏢 **Clientes enterprise:** Se sua empresa requer contrato formal com assinatura, solicite pelo e-mail juridico@airgate.app.
+🏢 **Clientes enterprise:** Se sua empresa requer contrato formal com assinatura, solicite pelo e-mail [juridico@airgate.app](mailto:juridico@airgate.app).
 
 ---
 
